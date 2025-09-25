@@ -35,7 +35,9 @@ All without **any external components** — just your ESP8266 board.
 
 ## 🧑‍💻 Example Output
 RSSI: -67 dBm, MAC: 3C:5A:B4:8E:1F:22
+
 RSSI: -72 dBm, MAC: 7A:11:42:5D:9C:77
+
 RSSI: -55 dBm, MAC: 48:D2:24:AC:02:9B
 
 
