@@ -50,7 +50,7 @@ RSSI: -55 dBm, MAC: 48:D2:24:AC:02:9B
 - Identify busiest WiFi channels (📡 network analysis)  
 - Push logs to Firebase / Web Dashboard for real-time monitoring 🌐  
 
----
+--- 
 
 ## ⚠️ Disclaimer
 This project is for **educational purposes only**.  
